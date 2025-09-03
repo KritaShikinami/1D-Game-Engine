@@ -7,3 +7,6 @@
 <p>Perlin Noise ile birlikte de artık seed girerek dünyaları oluşturabilir ve kaydedebilirsiniz.</p>
 <p>Oyun motorundan daha çok şuan için fiziki olayları simüle ediyorum.</p>
 <p>Zeminlerin tasarımları da bitmiş değil.</p>
+<h1>03.09.2025 Sürümü</h1>
+<p>Bu sürümde artık "main.py" ile "source.py" arasındaki ayrım çok daha net. Artık "source.py" gerçekten de fizik kodlarını, özellikleri ve hesaplamaları içeriyor.</p>
+<p>Çarpışma testi de bu sürümde başarı ile gerçekleşti, iki cismin çarpışmasından sonra nasıl tepki verdiği simüle edildi.</p>
