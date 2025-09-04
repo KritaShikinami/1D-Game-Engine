@@ -10,3 +10,6 @@
 <h1>03.09.2025 Sürümü</h1>
 <p>Bu sürümde artık "main.py" ile "source.py" arasındaki ayrım çok daha net. Artık "source.py" gerçekten de fizik kodlarını, özellikleri ve hesaplamaları içeriyor.</p>
 <p>Çarpışma testi de bu sürümde başarı ile gerçekleşti, iki cismin çarpışmasından sonra nasıl tepki verdiği simüle edildi.</p>
+<h1>04.09.2025</h1>
+<p>Artık oyun motorunun kendisine ait konsolda çalışan, 80 karaktere 24 karakter olan konsol alanına sahip.</p>
+<p>Her 0.1 salisede ekran temizleniyor ve algoritmalardan çıkan sonuç güncellenip ekrana yazdırılıyor.</p>
