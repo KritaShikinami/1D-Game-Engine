@@ -15,3 +15,6 @@
 <p>Her 0.1 salisede ekran temizleniyor ve algoritmalardan çıkan sonuç güncellenip ekrana yazdırılıyor.</p>
 <h1>07.09.2025 Sürümü</h1>
 <p>Artık oyun motoruna eklenecek yeni şeylerin test edilebileceği bir ortam var ve default karakter de eklendi. Ekstra olarak da su fiziği eklendi ancak henüz olarak simüle edilmedi.</p>
+<h1>12.09.2025 Sürümü</h1>
+<p>Bu sürüm şimdilik Sierra Engine motorumun görsel olarak alabileceği son hal. Oyunda karakterin yürüme, silahlı hali, ateş etme ve ölme animasyonları var ve de bunlar NPC'ler için de geçerli.</p>
+<p>NPC Yapay zekası da eklendi ve ateş ettiğimiz zaman bize de ateş etmeye başlıyor.</p>
